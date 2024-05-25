@@ -1,0 +1,6 @@
+Alexandria, Cairo, 218.9 km, round
+Alexandria ,  Aswan,  845.01 km,  One-way
+Alexandria ,  Luxor,  874.6 km,  round
+cairo,  mansoura,  125.9 km,  round
+mansoura, aswan, 960, round
+
